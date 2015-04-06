@@ -1,0 +1,2 @@
+http://genomicsclass.github.io/book/
+http://adv-r.had.co.nz
